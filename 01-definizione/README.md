@@ -15,9 +15,18 @@ Puoi editare questo file per creare il tuo documento di definizione oppure aggiu
   -Importare la chiave pubblica PGP del file attraverso Kleopatra;
   -Indicare all’utente se i controlli sono stati superati con successo;
   -In caso di errore descrivere e risolvere il problema;
+  
+2)L'interfaccia sarà strutturata nel seguente modo:
+-Bottone per aprire "l'esplora file";
+-Un secondo bottone per visualizzare il contenuto del file secondo il pgp;
+-Una label per indicare se i controlli hanno avuto successo o meno;
 
-2)Gap di conoscenze:
--non sappiamo navigare il filesystem;
--checksum SHA256;
--inserire checksum SHA256 in WPF;
--non sappiamo indicare se i controlli sono stati superati con successo o, in caso di errore, descrivere il problema riscontrato;
+3)Gap di conoscenze:
+-Come navigare il filesystem;
+-checksum SHA256, come integrarlo nel progetto;
+
+4)Organizzazione delle informazioni:
+-Utilizzeremo tutte le informazioni necessarie per poter risolvere i nostri gap di conoscenze;
+-Siti internet;
+-Video Tutorial;
+-Forum;
