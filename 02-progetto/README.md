@@ -14,5 +14,3 @@ Il progetto dell'elaborato dovrà affrontare i seguenti punti:
 -Tisi Gioele: realizzazione progetto;
 -Gabriele Tocchio: "personalizzazione interfaccia";
 -Andreotti Eric: compilazione documenti di Definizione e Progetto;
-
-3)
