@@ -7,7 +7,7 @@ Il progetto dell'elaborato dovrà affrontare i seguenti punti:
 - documentazione dei collegamenti e relazioni tra ciò che si sta realizzando e le informazioni di riferimento (teoria della materia, altre materie, soluzioni già esistenti)
 
 ### Stesura progetto iniziale:
-##### Fase 1: Creiamo un'applicazione WPF 
+Fase 1: Creiamo un'applicazione WPF tramite il bottone in alto a sinistra "File>Nuovo>Progetto" e si seleziona.Digitare "WPF" e cliccare la sezione con la scritta ".NET core";
 -L'utente sarà in grado di scegliere un file all'interno del suo dispositivo, e verificare (tramite la chiave pubblica) se la firma è quella del mittente reale;
 
 2)Tempo previsto per la completazione del progetto (+ interfaccia) = circa 3 ore e 30min;
