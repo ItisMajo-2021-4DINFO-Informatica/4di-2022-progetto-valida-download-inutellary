@@ -6,8 +6,8 @@ Il progetto dell'elaborato dovrà affrontare i seguenti punti:
 - documentazione del processo di realizzazione, attraverso appunti e commenti significativi alle versioni rilasciate su GitHub (commit)
 - documentazione dei collegamenti e relazioni tra ciò che si sta realizzando e le informazioni di riferimento (teoria della materia, altre materie, soluzioni già esistenti)
 
-1)Realizzazione:
--Creiamo un'applicazione WPF 
+### Stesura progetto iniziale:
+##### Fase 1: Creiamo un'applicazione WPF 
 -L'utente sarà in grado di scegliere un file all'interno del suo dispositivo, e verificare (tramite la chiave pubblica) se la firma è quella del mittente reale;
 
 2)Tempo previsto per la completazione del progetto (+ interfaccia) = circa 3 ore e 30min;
