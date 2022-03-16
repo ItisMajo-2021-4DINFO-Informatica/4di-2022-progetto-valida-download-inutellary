@@ -7,14 +7,14 @@ Il progetto dell'elaborato dovrà affrontare i seguenti punti:
 - documentazione dei collegamenti e relazioni tra ciò che si sta realizzando e le informazioni di riferimento (teoria della materia, altre materie, soluzioni già esistenti)
 
 ### Stesura progetto iniziale:
-Fase 1: Creiamo un'applicazione WPF attraverso Visual Studio;
-Fase 2: L'interfaccia sarà strutturata in maniera tale da rendere trascinabile un file .sha256 nel progetto per essere verificato;
-Fase 3: Nella parte inferiore dell'interfaccia vi sarà un bottone per avviare la verifica e scrivere in output, tramite una label, se il file da verificare è autentico, altrimenti scrive in output che il file è stato violato;
+Fase 1: Creiamo un'applicazione WPF con Visual Studio (versione community del 2019);
+Fase 2: L'interfaccia sarà strutturata in maniera tale da rendere trascinabili un file .iso e la chiave pubblica;
+Fase 3: Nella parte inferiore dell'interfaccia vi sarà un bottone per avviare la verifica della firma e la scrive in output, tramite una label, se il file è autentico, altrimenti scrive in output che la firma non è valida;
 
 ### Documentazione del processo di realizzazione:
 1)Entrati su Visual Studio, cliccare il bottone in alto a sinistra "File>Nuovo>Progetto". Digitare "WPF" e cliccare la sezione con la scritta ".NET core" e dare nome al progetto (a scelta ovviamente);
 2)Tramite la classe allegata dal Prof, con al suo interno le funzioni chiave, ci risulterà più facilitata la realizzazione del codice.
-3)Il codice da noi creato, sfrutterà le funzioni interne alla classe per verificare se la chiave pubblica corrisponde a quella del file.
+3)Il codice da noi creato, sfrutterà le funzioni interne alla classe per verificare se la chiave pubblica verifica la firma del "produttore" del download.
 4)Per finire verrà creata una label nel quale verrano stampati in output i risultati falliti o riusciti della verifica.
 
 ### Organizzazione del lavoro & divisione dei ruoli:
@@ -22,3 +22,5 @@ Fase 3: Nella parte inferiore dell'interfaccia vi sarà un bottone per avviare l
 -Gabriele Tocchio: stesura documento di Definizione (documento in cui gli autori spiegano a grandi linee i requisiti, diverse situazioni e gap di conoscenze)(orario scolastico);
 -Gabriele Tocchio & Andreotti Eric: "personalizzazione interfaccia" (modifica di aspetto e colore dell'interfaccia per renderla intuitiva e bella all'aspetto) (1,30 ore);
 
+### Individuare collegamenti e relazioni tra le informazioni:
+-
